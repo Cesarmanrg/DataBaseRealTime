@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190111080097",
+    "firebase_url": "https://databaserealtime-b01af.firebaseio.com",
+    "project_id": "databaserealtime-b01af",
+    "storage_bucket": "databaserealtime-b01af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190111080097:android:ed83f1d865e5c8b3",
+        "android_client_info": {
+          "package_name": "mx.com.cesarmanrg.databaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190111080097-pgv66trg9iktdrka29jiddr515l2vrcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.com.cesarmanrg.databaserealtime",
+            "certificate_hash": "685e9d465055bbc1aff63f87d8f1bfbafb9b031e"
+          }
+        },
+        {
+          "client_id": "190111080097-lj5i3027n9dbihpmhbt6i0npcr5rggcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthzfYbzLbZeSRglCqy2fws8sVNiR8E2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190111080097-lj5i3027n9dbihpmhbt6i0npcr5rggcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
